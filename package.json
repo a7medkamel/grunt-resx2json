@@ -1,0 +1,26 @@
+{
+  "name": "grunt-resx2json",
+  "version": "0.1.0",
+  "description": "Grunt helper for converting .resx and .lspkg to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingAds/grunt-resx2json.git"
+  },
+  "author": "a7medkamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BingAds/grunt-resx2json/issues"
+  },
+  "homepage": "https://github.com/BingAds/grunt-resx2json#readme",
+  "dependencies": {
+    "yargs": "~1.2.1",
+    "bluebird": "~1.1.0",
+    "async": "~0.2.10",
+    "underscore": "~1.6.0",
+    "mkdirp": "~0.3.5"
+  }
+}

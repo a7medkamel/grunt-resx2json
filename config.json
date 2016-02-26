@@ -1,0 +1,2510 @@
+[
+  {
+    "Name": "",
+    "TwoLetterISOLanguageName": "iv",
+    "DisplayName": "Invariant Language (Invariant Country)",
+    "LCID": 127
+  },
+  {
+    "Name": "af",
+    "TwoLetterISOLanguageName": "af",
+    "DisplayName": "Afrikaans",
+    "LCID": 54
+  },
+  {
+    "Name": "af-ZA",
+    "TwoLetterISOLanguageName": "af",
+    "DisplayName": "Afrikaans (South Africa)",
+    "LCID": 1078
+  },
+  {
+    "Name": "am",
+    "TwoLetterISOLanguageName": "am",
+    "DisplayName": "Amharic",
+    "LCID": 94
+  },
+  {
+    "Name": "am-ET",
+    "TwoLetterISOLanguageName": "am",
+    "DisplayName": "Amharic (Ethiopia)",
+    "LCID": 1118
+  },
+  {
+    "Name": "ar",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic",
+    "LCID": 1
+  },
+  {
+    "Name": "ar-AE",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (U.A.E.)",
+    "LCID": 14337
+  },
+  {
+    "Name": "ar-BH",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Bahrain)",
+    "LCID": 15361
+  },
+  {
+    "Name": "ar-DZ",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Algeria)",
+    "LCID": 5121
+  },
+  {
+    "Name": "ar-EG",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Egypt)",
+    "LCID": 3073
+  },
+  {
+    "Name": "ar-IQ",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Iraq)",
+    "LCID": 2049
+  },
+  {
+    "Name": "ar-JO",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Jordan)",
+    "LCID": 11265
+  },
+  {
+    "Name": "ar-KW",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Kuwait)",
+    "LCID": 13313
+  },
+  {
+    "Name": "ar-LB",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Lebanon)",
+    "LCID": 12289
+  },
+  {
+    "Name": "ar-LY",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Libya)",
+    "LCID": 4097
+  },
+  {
+    "Name": "ar-MA",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Morocco)",
+    "LCID": 6145
+  },
+  {
+    "Name": "ar-OM",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Oman)",
+    "LCID": 8193
+  },
+  {
+    "Name": "ar-QA",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Qatar)",
+    "LCID": 16385
+  },
+  {
+    "Name": "ar-SA",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Saudi Arabia)",
+    "LCID": 1025
+  },
+  {
+    "Name": "ar-SY",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Syria)",
+    "LCID": 10241
+  },
+  {
+    "Name": "ar-TN",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Tunisia)",
+    "LCID": 7169
+  },
+  {
+    "Name": "ar-YE",
+    "TwoLetterISOLanguageName": "ar",
+    "DisplayName": "Arabic (Yemen)",
+    "LCID": 9217
+  },
+  {
+    "Name": "arn",
+    "TwoLetterISOLanguageName": "arn",
+    "DisplayName": "Mapudungun",
+    "LCID": 122
+  },
+  {
+    "Name": "arn-CL",
+    "TwoLetterISOLanguageName": "arn",
+    "DisplayName": "Mapudungun (Chile)",
+    "LCID": 1146
+  },
+  {
+    "Name": "as",
+    "TwoLetterISOLanguageName": "as",
+    "DisplayName": "Assamese",
+    "LCID": 77
+  },
+  {
+    "Name": "as-IN",
+    "TwoLetterISOLanguageName": "as",
+    "DisplayName": "Assamese (India)",
+    "LCID": 1101
+  },
+  {
+    "Name": "az",
+    "TwoLetterISOLanguageName": "az",
+    "DisplayName": "Azeri",
+    "LCID": 44
+  },
+  {
+    "Name": "az-Cyrl",
+    "TwoLetterISOLanguageName": "az",
+    "DisplayName": "Azeri (Cyrillic)",
+    "LCID": 29740
+  },
+  {
+    "Name": "az-Cyrl-AZ",
+    "TwoLetterISOLanguageName": "az",
+    "DisplayName": "Azeri (Cyrillic, Azerbaijan)",
+    "LCID": 2092
+  },
+  {
+    "Name": "az-Latn",
+    "TwoLetterISOLanguageName": "az",
+    "DisplayName": "Azeri (Latin)",
+    "LCID": 30764
+  },
+  {
+    "Name": "az-Latn-AZ",
+    "TwoLetterISOLanguageName": "az",
+    "DisplayName": "Azeri (Latin, Azerbaijan)",
+    "LCID": 1068
+  },
+  {
+    "Name": "ba",
+    "TwoLetterISOLanguageName": "ba",
+    "DisplayName": "Bashkir",
+    "LCID": 109
+  },
+  {
+    "Name": "ba-RU",
+    "TwoLetterISOLanguageName": "ba",
+    "DisplayName": "Bashkir (Russia)",
+    "LCID": 1133
+  },
+  {
+    "Name": "be",
+    "TwoLetterISOLanguageName": "be",
+    "DisplayName": "Belarusian",
+    "LCID": 35
+  },
+  {
+    "Name": "be-BY",
+    "TwoLetterISOLanguageName": "be",
+    "DisplayName": "Belarusian (Belarus)",
+    "LCID": 1059
+  },
+  {
+    "Name": "bg",
+    "TwoLetterISOLanguageName": "bg",
+    "DisplayName": "Bulgarian",
+    "LCID": 2
+  },
+  {
+    "Name": "bg-BG",
+    "TwoLetterISOLanguageName": "bg",
+    "DisplayName": "Bulgarian (Bulgaria)",
+    "LCID": 1026
+  },
+  {
+    "Name": "bn",
+    "TwoLetterISOLanguageName": "bn",
+    "DisplayName": "Bengali",
+    "LCID": 69
+  },
+  {
+    "Name": "bn-BD",
+    "TwoLetterISOLanguageName": "bn",
+    "DisplayName": "Bengali (Bangladesh)",
+    "LCID": 2117
+  },
+  {
+    "Name": "bn-IN",
+    "TwoLetterISOLanguageName": "bn",
+    "DisplayName": "Bengali (India)",
+    "LCID": 1093
+  },
+  {
+    "Name": "bo",
+    "TwoLetterISOLanguageName": "bo",
+    "DisplayName": "Tibetan",
+    "LCID": 81
+  },
+  {
+    "Name": "bo-CN",
+    "TwoLetterISOLanguageName": "bo",
+    "DisplayName": "Tibetan (PRC)",
+    "LCID": 1105
+  },
+  {
+    "Name": "br",
+    "TwoLetterISOLanguageName": "br",
+    "DisplayName": "Breton",
+    "LCID": 126
+  },
+  {
+    "Name": "br-FR",
+    "TwoLetterISOLanguageName": "br",
+    "DisplayName": "Breton (France)",
+    "LCID": 1150
+  },
+  {
+    "Name": "bs",
+    "TwoLetterISOLanguageName": "bs",
+    "DisplayName": "Bosnian",
+    "LCID": 30746
+  },
+  {
+    "Name": "bs-Cyrl",
+    "TwoLetterISOLanguageName": "bs",
+    "DisplayName": "Bosnian (Cyrillic)",
+    "LCID": 25626
+  },
+  {
+    "Name": "bs-Cyrl-BA",
+    "TwoLetterISOLanguageName": "bs",
+    "DisplayName": "Bosnian (Cyrillic, Bosnia and Herzegovina)",
+    "LCID": 8218
+  },
+  {
+    "Name": "bs-Latn",
+    "TwoLetterISOLanguageName": "bs",
+    "DisplayName": "Bosnian (Latin)",
+    "LCID": 26650
+  },
+  {
+    "Name": "bs-Latn-BA",
+    "TwoLetterISOLanguageName": "bs",
+    "DisplayName": "Bosnian (Latin, Bosnia and Herzegovina)",
+    "LCID": 5146
+  },
+  {
+    "Name": "ca",
+    "TwoLetterISOLanguageName": "ca",
+    "DisplayName": "Catalan",
+    "LCID": 3
+  },
+  {
+    "Name": "ca-ES",
+    "TwoLetterISOLanguageName": "ca",
+    "DisplayName": "Catalan (Catalan)",
+    "LCID": 1027
+  },
+  {
+    "Name": "ca-ES-valencia",
+    "TwoLetterISOLanguageName": "ca",
+    "DisplayName": "Valencian (Spain)",
+    "LCID": 2051
+  },
+  {
+    "Name": "chr",
+    "TwoLetterISOLanguageName": "chr",
+    "DisplayName": "Cherokee",
+    "LCID": 92
+  },
+  {
+    "Name": "chr-Cher",
+    "TwoLetterISOLanguageName": "chr",
+    "DisplayName": "Cherokee (Cherokee)",
+    "LCID": 31836
+  },
+  {
+    "Name": "chr-Cher-US",
+    "TwoLetterISOLanguageName": "chr",
+    "DisplayName": "Cherokee (Cherokee)",
+    "LCID": 1116
+  },
+  {
+    "Name": "co",
+    "TwoLetterISOLanguageName": "co",
+    "DisplayName": "Corsican",
+    "LCID": 131
+  },
+  {
+    "Name": "co-FR",
+    "TwoLetterISOLanguageName": "co",
+    "DisplayName": "Corsican (France)",
+    "LCID": 1155
+  },
+  {
+    "Name": "cs",
+    "TwoLetterISOLanguageName": "cs",
+    "DisplayName": "Czech",
+    "LCID": 5
+  },
+  {
+    "Name": "cs-CZ",
+    "TwoLetterISOLanguageName": "cs",
+    "DisplayName": "Czech (Czech Republic)",
+    "LCID": 1029
+  },
+  {
+    "Name": "cy",
+    "TwoLetterISOLanguageName": "cy",
+    "DisplayName": "Welsh",
+    "LCID": 82
+  },
+  {
+    "Name": "cy-GB",
+    "TwoLetterISOLanguageName": "cy",
+    "DisplayName": "Welsh (United Kingdom)",
+    "LCID": 1106
+  },
+  {
+    "Name": "da",
+    "TwoLetterISOLanguageName": "da",
+    "DisplayName": "Danish",
+    "LCID": 6
+  },
+  {
+    "Name": "da-DK",
+    "TwoLetterISOLanguageName": "da",
+    "DisplayName": "Danish (Denmark)",
+    "LCID": 1030
+  },
+  {
+    "Name": "de",
+    "TwoLetterISOLanguageName": "de",
+    "DisplayName": "German",
+    "LCID": 7
+  },
+  {
+    "Name": "de-AT",
+    "TwoLetterISOLanguageName": "de",
+    "DisplayName": "German (Austria)",
+    "LCID": 3079
+  },
+  {
+    "Name": "de-CH",
+    "TwoLetterISOLanguageName": "de",
+    "DisplayName": "German (Switzerland)",
+    "LCID": 2055
+  },
+  {
+    "Name": "de-DE",
+    "TwoLetterISOLanguageName": "de",
+    "DisplayName": "German (Germany)",
+    "LCID": 1031
+  },
+  {
+    "Name": "de-LI",
+    "TwoLetterISOLanguageName": "de",
+    "DisplayName": "German (Liechtenstein)",
+    "LCID": 5127
+  },
+  {
+    "Name": "de-LU",
+    "TwoLetterISOLanguageName": "de",
+    "DisplayName": "German (Luxembourg)",
+    "LCID": 4103
+  },
+  {
+    "Name": "dsb",
+    "TwoLetterISOLanguageName": "dsb",
+    "DisplayName": "Lower Sorbian",
+    "LCID": 31790
+  },
+  {
+    "Name": "dsb-DE",
+    "TwoLetterISOLanguageName": "dsb",
+    "DisplayName": "Lower Sorbian (Germany)",
+    "LCID": 2094
+  },
+  {
+    "Name": "dv",
+    "TwoLetterISOLanguageName": "dv",
+    "DisplayName": "Divehi",
+    "LCID": 101
+  },
+  {
+    "Name": "dv-MV",
+    "TwoLetterISOLanguageName": "dv",
+    "DisplayName": "Divehi (Maldives)",
+    "LCID": 1125
+  },
+  {
+    "Name": "el",
+    "TwoLetterISOLanguageName": "el",
+    "DisplayName": "Greek",
+    "LCID": 8
+  },
+  {
+    "Name": "el-GR",
+    "TwoLetterISOLanguageName": "el",
+    "DisplayName": "Greek (Greece)",
+    "LCID": 1032
+  },
+  {
+    "Name": "en",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English",
+    "LCID": 9
+  },
+  {
+    "Name": "en-029",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Caribbean)",
+    "LCID": 9225
+  },
+  {
+    "Name": "en-AU",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Australia)",
+    "LCID": 3081
+  },
+  {
+    "Name": "en-BZ",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Belize)",
+    "LCID": 10249
+  },
+  {
+    "Name": "en-CA",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Canada)",
+    "LCID": 4105
+  },
+  {
+    "Name": "en-GB",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (United Kingdom)",
+    "LCID": 2057
+  },
+  {
+    "Name": "en-HK",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Hong Kong)",
+    "LCID": 15369
+  },
+  {
+    "Name": "en-IE",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Ireland)",
+    "LCID": 6153
+  },
+  {
+    "Name": "en-IN",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (India)",
+    "LCID": 16393
+  },
+  {
+    "Name": "en-JM",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Jamaica)",
+    "LCID": 8201
+  },
+  {
+    "Name": "en-MY",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Malaysia)",
+    "LCID": 17417
+  },
+  {
+    "Name": "en-NZ",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (New Zealand)",
+    "LCID": 5129
+  },
+  {
+    "Name": "en-PH",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Republic of the Philippines)",
+    "LCID": 13321
+  },
+  {
+    "Name": "en-SG",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Singapore)",
+    "LCID": 18441
+  },
+  {
+    "Name": "en-TT",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Trinidad and Tobago)",
+    "LCID": 11273
+  },
+  {
+    "Name": "en-US",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (United States)",
+    "LCID": 1033
+  },
+  {
+    "Name": "en-ZA",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (South Africa)",
+    "LCID": 7177
+  },
+  {
+    "Name": "en-ZW",
+    "TwoLetterISOLanguageName": "en",
+    "DisplayName": "English (Zimbabwe)",
+    "LCID": 12297
+  },
+  {
+    "Name": "es",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish",
+    "LCID": 10
+  },
+  {
+    "Name": "es-419",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Latin America)",
+    "LCID": 22538
+  },
+  {
+    "Name": "es-AR",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Argentina)",
+    "LCID": 11274
+  },
+  {
+    "Name": "es-BO",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Bolivia)",
+    "LCID": 16394
+  },
+  {
+    "Name": "es-CL",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Chile)",
+    "LCID": 13322
+  },
+  {
+    "Name": "es-CO",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Colombia)",
+    "LCID": 9226
+  },
+  {
+    "Name": "es-CR",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Costa Rica)",
+    "LCID": 5130
+  },
+  {
+    "Name": "es-DO",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Dominican Republic)",
+    "LCID": 7178
+  },
+  {
+    "Name": "es-EC",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Ecuador)",
+    "LCID": 12298
+  },
+  {
+    "Name": "es-ES",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Spain)",
+    "LCID": 3082
+  },
+  {
+    "Name": "es-GT",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Guatemala)",
+    "LCID": 4106
+  },
+  {
+    "Name": "es-HN",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Honduras)",
+    "LCID": 18442
+  },
+  {
+    "Name": "es-MX",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Mexico)",
+    "LCID": 2058
+  },
+  {
+    "Name": "es-NI",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Nicaragua)",
+    "LCID": 19466
+  },
+  {
+    "Name": "es-PA",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Panama)",
+    "LCID": 6154
+  },
+  {
+    "Name": "es-PE",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Peru)",
+    "LCID": 10250
+  },
+  {
+    "Name": "es-PR",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Puerto Rico)",
+    "LCID": 20490
+  },
+  {
+    "Name": "es-PY",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Paraguay)",
+    "LCID": 15370
+  },
+  {
+    "Name": "es-SV",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (El Salvador)",
+    "LCID": 17418
+  },
+  {
+    "Name": "es-US",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (United States)",
+    "LCID": 21514
+  },
+  {
+    "Name": "es-UY",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Uruguay)",
+    "LCID": 14346
+  },
+  {
+    "Name": "es-VE",
+    "TwoLetterISOLanguageName": "es",
+    "DisplayName": "Spanish (Bolivarian Republic of Venezuela)",
+    "LCID": 8202
+  },
+  {
+    "Name": "et",
+    "TwoLetterISOLanguageName": "et",
+    "DisplayName": "Estonian",
+    "LCID": 37
+  },
+  {
+    "Name": "et-EE",
+    "TwoLetterISOLanguageName": "et",
+    "DisplayName": "Estonian (Estonia)",
+    "LCID": 1061
+  },
+  {
+    "Name": "eu",
+    "TwoLetterISOLanguageName": "eu",
+    "DisplayName": "Basque",
+    "LCID": 45
+  },
+  {
+    "Name": "eu-ES",
+    "TwoLetterISOLanguageName": "eu",
+    "DisplayName": "Basque (Basque)",
+    "LCID": 1069
+  },
+  {
+    "Name": "fa",
+    "TwoLetterISOLanguageName": "fa",
+    "DisplayName": "Persian",
+    "LCID": 41
+  },
+  {
+    "Name": "fa-IR",
+    "TwoLetterISOLanguageName": "fa",
+    "DisplayName": "Persian",
+    "LCID": 1065
+  },
+  {
+    "Name": "ff",
+    "TwoLetterISOLanguageName": "ff",
+    "DisplayName": "Fulah",
+    "LCID": 103
+  },
+  {
+    "Name": "ff-Latn",
+    "TwoLetterISOLanguageName": "ff",
+    "DisplayName": "Fulah (Latin)",
+    "LCID": 31847
+  },
+  {
+    "Name": "ff-Latn-SN",
+    "TwoLetterISOLanguageName": "ff",
+    "DisplayName": "Fulah (Latin, Senegal)",
+    "LCID": 2151
+  },
+  {
+    "Name": "fi",
+    "TwoLetterISOLanguageName": "fi",
+    "DisplayName": "Finnish",
+    "LCID": 11
+  },
+  {
+    "Name": "fi-FI",
+    "TwoLetterISOLanguageName": "fi",
+    "DisplayName": "Finnish (Finland)",
+    "LCID": 1035
+  },
+  {
+    "Name": "fil",
+    "TwoLetterISOLanguageName": "fil",
+    "DisplayName": "Filipino",
+    "LCID": 100
+  },
+  {
+    "Name": "fil-PH",
+    "TwoLetterISOLanguageName": "fil",
+    "DisplayName": "Filipino (Philippines)",
+    "LCID": 1124
+  },
+  {
+    "Name": "fo",
+    "TwoLetterISOLanguageName": "fo",
+    "DisplayName": "Faroese",
+    "LCID": 56
+  },
+  {
+    "Name": "fo-FO",
+    "TwoLetterISOLanguageName": "fo",
+    "DisplayName": "Faroese (Faroe Islands)",
+    "LCID": 1080
+  },
+  {
+    "Name": "fr",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French",
+    "LCID": 12
+  },
+  {
+    "Name": "fr-BE",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Belgium)",
+    "LCID": 2060
+  },
+  {
+    "Name": "fr-CA",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Canada)",
+    "LCID": 3084
+  },
+  {
+    "Name": "fr-CD",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Congo [DRC])",
+    "LCID": 9228
+  },
+  {
+    "Name": "fr-CH",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Switzerland)",
+    "LCID": 4108
+  },
+  {
+    "Name": "fr-CI",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Ivory Coast)",
+    "LCID": 12300
+  },
+  {
+    "Name": "fr-CM",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Cameroon)",
+    "LCID": 11276
+  },
+  {
+    "Name": "fr-FR",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (France)",
+    "LCID": 1036
+  },
+  {
+    "Name": "fr-HT",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Haiti)",
+    "LCID": 15372
+  },
+  {
+    "Name": "fr-LU",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Luxembourg)",
+    "LCID": 5132
+  },
+  {
+    "Name": "fr-MA",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Morocco)",
+    "LCID": 14348
+  },
+  {
+    "Name": "fr-MC",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Monaco)",
+    "LCID": 6156
+  },
+  {
+    "Name": "fr-ML",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Mali)",
+    "LCID": 13324
+  },
+  {
+    "Name": "fr-RE",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (RÃ©union)",
+    "LCID": 8204
+  },
+  {
+    "Name": "fr-SN",
+    "TwoLetterISOLanguageName": "fr",
+    "DisplayName": "French (Senegal)",
+    "LCID": 10252
+  },
+  {
+    "Name": "fy",
+    "TwoLetterISOLanguageName": "fy",
+    "DisplayName": "Frisian",
+    "LCID": 98
+  },
+  {
+    "Name": "fy-NL",
+    "TwoLetterISOLanguageName": "fy",
+    "DisplayName": "Frisian (Netherlands)",
+    "LCID": 1122
+  },
+  {
+    "Name": "ga",
+    "TwoLetterISOLanguageName": "ga",
+    "DisplayName": "Irish",
+    "LCID": 60
+  },
+  {
+    "Name": "ga-IE",
+    "TwoLetterISOLanguageName": "ga",
+    "DisplayName": "Irish (Ireland)",
+    "LCID": 2108
+  },
+  {
+    "Name": "gd",
+    "TwoLetterISOLanguageName": "gd",
+    "DisplayName": "Scottish Gaelic",
+    "LCID": 145
+  },
+  {
+    "Name": "gd-GB",
+    "TwoLetterISOLanguageName": "gd",
+    "DisplayName": "Scottish Gaelic (United Kingdom)",
+    "LCID": 1169
+  },
+  {
+    "Name": "gl",
+    "TwoLetterISOLanguageName": "gl",
+    "DisplayName": "Galician",
+    "LCID": 86
+  },
+  {
+    "Name": "gl-ES",
+    "TwoLetterISOLanguageName": "gl",
+    "DisplayName": "Galician (Galician)",
+    "LCID": 1110
+  },
+  {
+    "Name": "gn",
+    "TwoLetterISOLanguageName": "gn",
+    "DisplayName": "Guarani",
+    "LCID": 116
+  },
+  {
+    "Name": "gn-PY",
+    "TwoLetterISOLanguageName": "gn",
+    "DisplayName": "Guarani (Paraguay)",
+    "LCID": 1140
+  },
+  {
+    "Name": "gsw",
+    "TwoLetterISOLanguageName": "gsw",
+    "DisplayName": "Alsatian",
+    "LCID": 132
+  },
+  {
+    "Name": "gsw-FR",
+    "TwoLetterISOLanguageName": "gsw",
+    "DisplayName": "Alsatian (France)",
+    "LCID": 1156
+  },
+  {
+    "Name": "gu",
+    "TwoLetterISOLanguageName": "gu",
+    "DisplayName": "Gujarati",
+    "LCID": 71
+  },
+  {
+    "Name": "gu-IN",
+    "TwoLetterISOLanguageName": "gu",
+    "DisplayName": "Gujarati (India)",
+    "LCID": 1095
+  },
+  {
+    "Name": "ha",
+    "TwoLetterISOLanguageName": "ha",
+    "DisplayName": "Hausa",
+    "LCID": 104
+  },
+  {
+    "Name": "ha-Latn",
+    "TwoLetterISOLanguageName": "ha",
+    "DisplayName": "Hausa (Latin)",
+    "LCID": 31848
+  },
+  {
+    "Name": "ha-Latn-NG",
+    "TwoLetterISOLanguageName": "ha",
+    "DisplayName": "Hausa (Latin, Nigeria)",
+    "LCID": 1128
+  },
+  {
+    "Name": "haw",
+    "TwoLetterISOLanguageName": "haw",
+    "DisplayName": "Hawaiian",
+    "LCID": 117
+  },
+  {
+    "Name": "haw-US",
+    "TwoLetterISOLanguageName": "haw",
+    "DisplayName": "Hawaiian (United States)",
+    "LCID": 1141
+  },
+  {
+    "Name": "he",
+    "TwoLetterISOLanguageName": "he",
+    "DisplayName": "Hebrew",
+    "LCID": 13
+  },
+  {
+    "Name": "he-IL",
+    "TwoLetterISOLanguageName": "he",
+    "DisplayName": "Hebrew (Israel)",
+    "LCID": 1037
+  },
+  {
+    "Name": "hi",
+    "TwoLetterISOLanguageName": "hi",
+    "DisplayName": "Hindi",
+    "LCID": 57
+  },
+  {
+    "Name": "hi-IN",
+    "TwoLetterISOLanguageName": "hi",
+    "DisplayName": "Hindi (India)",
+    "LCID": 1081
+  },
+  {
+    "Name": "hr",
+    "TwoLetterISOLanguageName": "hr",
+    "DisplayName": "Croatian",
+    "LCID": 26
+  },
+  {
+    "Name": "hr-BA",
+    "TwoLetterISOLanguageName": "hr",
+    "DisplayName": "Croatian (Latin, Bosnia and Herzegovina)",
+    "LCID": 4122
+  },
+  {
+    "Name": "hr-HR",
+    "TwoLetterISOLanguageName": "hr",
+    "DisplayName": "Croatian (Croatia)",
+    "LCID": 1050
+  },
+  {
+    "Name": "hsb",
+    "TwoLetterISOLanguageName": "hsb",
+    "DisplayName": "Upper Sorbian",
+    "LCID": 46
+  },
+  {
+    "Name": "hsb-DE",
+    "TwoLetterISOLanguageName": "hsb",
+    "DisplayName": "Upper Sorbian (Germany)",
+    "LCID": 1070
+  },
+  {
+    "Name": "hu",
+    "TwoLetterISOLanguageName": "hu",
+    "DisplayName": "Hungarian",
+    "LCID": 14
+  },
+  {
+    "Name": "hu-HU",
+    "TwoLetterISOLanguageName": "hu",
+    "DisplayName": "Hungarian (Hungary)",
+    "LCID": 1038
+  },
+  {
+    "Name": "hy",
+    "TwoLetterISOLanguageName": "hy",
+    "DisplayName": "Armenian",
+    "LCID": 43
+  },
+  {
+    "Name": "hy-AM",
+    "TwoLetterISOLanguageName": "hy",
+    "DisplayName": "Armenian (Armenia)",
+    "LCID": 1067
+  },
+  {
+    "Name": "id",
+    "TwoLetterISOLanguageName": "id",
+    "DisplayName": "Indonesian",
+    "LCID": 33
+  },
+  {
+    "Name": "id-ID",
+    "TwoLetterISOLanguageName": "id",
+    "DisplayName": "Indonesian (Indonesia)",
+    "LCID": 1057
+  },
+  {
+    "Name": "ig",
+    "TwoLetterISOLanguageName": "ig",
+    "DisplayName": "Igbo",
+    "LCID": 112
+  },
+  {
+    "Name": "ig-NG",
+    "TwoLetterISOLanguageName": "ig",
+    "DisplayName": "Igbo (Nigeria)",
+    "LCID": 1136
+  },
+  {
+    "Name": "ii",
+    "TwoLetterISOLanguageName": "ii",
+    "DisplayName": "Yi",
+    "LCID": 120
+  },
+  {
+    "Name": "ii-CN",
+    "TwoLetterISOLanguageName": "ii",
+    "DisplayName": "Yi (PRC)",
+    "LCID": 1144
+  },
+  {
+    "Name": "is",
+    "TwoLetterISOLanguageName": "is",
+    "DisplayName": "Icelandic",
+    "LCID": 15
+  },
+  {
+    "Name": "is-IS",
+    "TwoLetterISOLanguageName": "is",
+    "DisplayName": "Icelandic (Iceland)",
+    "LCID": 1039
+  },
+  {
+    "Name": "it",
+    "TwoLetterISOLanguageName": "it",
+    "DisplayName": "Italian",
+    "LCID": 16
+  },
+  {
+    "Name": "it-CH",
+    "TwoLetterISOLanguageName": "it",
+    "DisplayName": "Italian (Switzerland)",
+    "LCID": 2064
+  },
+  {
+    "Name": "it-IT",
+    "TwoLetterISOLanguageName": "it",
+    "DisplayName": "Italian (Italy)",
+    "LCID": 1040
+  },
+  {
+    "Name": "iu",
+    "TwoLetterISOLanguageName": "iu",
+    "DisplayName": "Inuktitut",
+    "LCID": 93
+  },
+  {
+    "Name": "iu-Cans",
+    "TwoLetterISOLanguageName": "iu",
+    "DisplayName": "Inuktitut (Syllabics)",
+    "LCID": 30813
+  },
+  {
+    "Name": "iu-Cans-CA",
+    "TwoLetterISOLanguageName": "iu",
+    "DisplayName": "Inuktitut (Syllabics, Canada)",
+    "LCID": 1117
+  },
+  {
+    "Name": "iu-Latn",
+    "TwoLetterISOLanguageName": "iu",
+    "DisplayName": "Inuktitut (Latin)",
+    "LCID": 31837
+  },
+  {
+    "Name": "iu-Latn-CA",
+    "TwoLetterISOLanguageName": "iu",
+    "DisplayName": "Inuktitut (Latin, Canada)",
+    "LCID": 2141
+  },
+  {
+    "Name": "ja",
+    "TwoLetterISOLanguageName": "ja",
+    "DisplayName": "Japanese",
+    "LCID": 17
+  },
+  {
+    "Name": "ja-JP",
+    "TwoLetterISOLanguageName": "ja",
+    "DisplayName": "Japanese (Japan)",
+    "LCID": 1041
+  },
+  {
+    "Name": "jv",
+    "TwoLetterISOLanguageName": "jv",
+    "DisplayName": "Basa Jawa",
+    "LCID": 4096
+  },
+  {
+    "Name": "jv-Latn",
+    "TwoLetterISOLanguageName": "jv",
+    "DisplayName": "Basa Jawa",
+    "LCID": 4096
+  },
+  {
+    "Name": "jv-Latn-ID",
+    "TwoLetterISOLanguageName": "jv",
+    "DisplayName": "Basa Jawa (Indonesia)",
+    "LCID": 4096
+  },
+  {
+    "Name": "ka",
+    "TwoLetterISOLanguageName": "ka",
+    "DisplayName": "Georgian",
+    "LCID": 55
+  },
+  {
+    "Name": "ka-GE",
+    "TwoLetterISOLanguageName": "ka",
+    "DisplayName": "Georgian (Georgia)",
+    "LCID": 1079
+  },
+  {
+    "Name": "kk",
+    "TwoLetterISOLanguageName": "kk",
+    "DisplayName": "Kazakh",
+    "LCID": 63
+  },
+  {
+    "Name": "kk-KZ",
+    "TwoLetterISOLanguageName": "kk",
+    "DisplayName": "Kazakh (Kazakhstan)",
+    "LCID": 1087
+  },
+  {
+    "Name": "kl",
+    "TwoLetterISOLanguageName": "kl",
+    "DisplayName": "Greenlandic",
+    "LCID": 111
+  },
+  {
+    "Name": "kl-GL",
+    "TwoLetterISOLanguageName": "kl",
+    "DisplayName": "Greenlandic (Greenland)",
+    "LCID": 1135
+  },
+  {
+    "Name": "km",
+    "TwoLetterISOLanguageName": "km",
+    "DisplayName": "Khmer",
+    "LCID": 83
+  },
+  {
+    "Name": "km-KH",
+    "TwoLetterISOLanguageName": "km",
+    "DisplayName": "Khmer (Cambodia)",
+    "LCID": 1107
+  },
+  {
+    "Name": "kn",
+    "TwoLetterISOLanguageName": "kn",
+    "DisplayName": "Kannada",
+    "LCID": 75
+  },
+  {
+    "Name": "kn-IN",
+    "TwoLetterISOLanguageName": "kn",
+    "DisplayName": "Kannada (India)",
+    "LCID": 1099
+  },
+  {
+    "Name": "ko",
+    "TwoLetterISOLanguageName": "ko",
+    "DisplayName": "Korean",
+    "LCID": 18
+  },
+  {
+    "Name": "ko-KR",
+    "TwoLetterISOLanguageName": "ko",
+    "DisplayName": "Korean (Korea)",
+    "LCID": 1042
+  },
+  {
+    "Name": "kok",
+    "TwoLetterISOLanguageName": "kok",
+    "DisplayName": "Konkani",
+    "LCID": 87
+  },
+  {
+    "Name": "kok-IN",
+    "TwoLetterISOLanguageName": "kok",
+    "DisplayName": "Konkani (India)",
+    "LCID": 1111
+  },
+  {
+    "Name": "ku",
+    "TwoLetterISOLanguageName": "ku",
+    "DisplayName": "Central Kurdish",
+    "LCID": 146
+  },
+  {
+    "Name": "ku-Arab",
+    "TwoLetterISOLanguageName": "ku",
+    "DisplayName": "Central Kurdish (Arabic)",
+    "LCID": 31890
+  },
+  {
+    "Name": "ku-Arab-IQ",
+    "TwoLetterISOLanguageName": "ku",
+    "DisplayName": "Central Kurdish (Iraq)",
+    "LCID": 1170
+  },
+  {
+    "Name": "ky",
+    "TwoLetterISOLanguageName": "ky",
+    "DisplayName": "Kyrgyz",
+    "LCID": 64
+  },
+  {
+    "Name": "ky-KG",
+    "TwoLetterISOLanguageName": "ky",
+    "DisplayName": "Kyrgyz (Kyrgyzstan)",
+    "LCID": 1088
+  },
+  {
+    "Name": "lb",
+    "TwoLetterISOLanguageName": "lb",
+    "DisplayName": "Luxembourgish",
+    "LCID": 110
+  },
+  {
+    "Name": "lb-LU",
+    "TwoLetterISOLanguageName": "lb",
+    "DisplayName": "Luxembourgish (Luxembourg)",
+    "LCID": 1134
+  },
+  {
+    "Name": "lo",
+    "TwoLetterISOLanguageName": "lo",
+    "DisplayName": "Lao",
+    "LCID": 84
+  },
+  {
+    "Name": "lo-LA",
+    "TwoLetterISOLanguageName": "lo",
+    "DisplayName": "Lao (Lao P.D.R.)",
+    "LCID": 1108
+  },
+  {
+    "Name": "lt",
+    "TwoLetterISOLanguageName": "lt",
+    "DisplayName": "Lithuanian",
+    "LCID": 39
+  },
+  {
+    "Name": "lt-LT",
+    "TwoLetterISOLanguageName": "lt",
+    "DisplayName": "Lithuanian (Lithuania)",
+    "LCID": 1063
+  },
+  {
+    "Name": "lv",
+    "TwoLetterISOLanguageName": "lv",
+    "DisplayName": "Latvian",
+    "LCID": 38
+  },
+  {
+    "Name": "lv-LV",
+    "TwoLetterISOLanguageName": "lv",
+    "DisplayName": "Latvian (Latvia)",
+    "LCID": 1062
+  },
+  {
+    "Name": "mg",
+    "TwoLetterISOLanguageName": "mg",
+    "DisplayName": "Malagasy",
+    "LCID": 4096
+  },
+  {
+    "Name": "mg-MG",
+    "TwoLetterISOLanguageName": "mg",
+    "DisplayName": "Malagasy (Madagasikara)",
+    "LCID": 4096
+  },
+  {
+    "Name": "mi",
+    "TwoLetterISOLanguageName": "mi",
+    "DisplayName": "Maori",
+    "LCID": 129
+  },
+  {
+    "Name": "mi-NZ",
+    "TwoLetterISOLanguageName": "mi",
+    "DisplayName": "Maori (New Zealand)",
+    "LCID": 1153
+  },
+  {
+    "Name": "mk",
+    "TwoLetterISOLanguageName": "mk",
+    "DisplayName": "Macedonian (FYROM)",
+    "LCID": 47
+  },
+  {
+    "Name": "mk-MK",
+    "TwoLetterISOLanguageName": "mk",
+    "DisplayName": "Macedonian (Former Yugoslav Republic of Macedonia)",
+    "LCID": 1071
+  },
+  {
+    "Name": "ml",
+    "TwoLetterISOLanguageName": "ml",
+    "DisplayName": "Malayalam",
+    "LCID": 76
+  },
+  {
+    "Name": "ml-IN",
+    "TwoLetterISOLanguageName": "ml",
+    "DisplayName": "Malayalam (India)",
+    "LCID": 1100
+  },
+  {
+    "Name": "mn",
+    "TwoLetterISOLanguageName": "mn",
+    "DisplayName": "Mongolian",
+    "LCID": 80
+  },
+  {
+    "Name": "mn-Cyrl",
+    "TwoLetterISOLanguageName": "mn",
+    "DisplayName": "Mongolian (Cyrillic)",
+    "LCID": 30800
+  },
+  {
+    "Name": "mn-MN",
+    "TwoLetterISOLanguageName": "mn",
+    "DisplayName": "Mongolian (Cyrillic, Mongolia)",
+    "LCID": 1104
+  },
+  {
+    "Name": "mn-Mong",
+    "TwoLetterISOLanguageName": "mn",
+    "DisplayName": "Mongolian (Traditional Mongolian)",
+    "LCID": 31824
+  },
+  {
+    "Name": "mn-Mong-CN",
+    "TwoLetterISOLanguageName": "mn",
+    "DisplayName": "Mongolian (Traditional Mongolian, PRC)",
+    "LCID": 2128
+  },
+  {
+    "Name": "mn-Mong-MN",
+    "TwoLetterISOLanguageName": "mn",
+    "DisplayName": "Mongolian (Traditional Mongolian, Mongolia)",
+    "LCID": 3152
+  },
+  {
+    "Name": "moh",
+    "TwoLetterISOLanguageName": "moh",
+    "DisplayName": "Mohawk",
+    "LCID": 124
+  },
+  {
+    "Name": "moh-CA",
+    "TwoLetterISOLanguageName": "moh",
+    "DisplayName": "Mohawk (Mohawk)",
+    "LCID": 1148
+  },
+  {
+    "Name": "mr",
+    "TwoLetterISOLanguageName": "mr",
+    "DisplayName": "Marathi",
+    "LCID": 78
+  },
+  {
+    "Name": "mr-IN",
+    "TwoLetterISOLanguageName": "mr",
+    "DisplayName": "Marathi (India)",
+    "LCID": 1102
+  },
+  {
+    "Name": "ms",
+    "TwoLetterISOLanguageName": "ms",
+    "DisplayName": "Malay",
+    "LCID": 62
+  },
+  {
+    "Name": "ms-BN",
+    "TwoLetterISOLanguageName": "ms",
+    "DisplayName": "Malay (Brunei Darussalam)",
+    "LCID": 2110
+  },
+  {
+    "Name": "ms-MY",
+    "TwoLetterISOLanguageName": "ms",
+    "DisplayName": "Malay (Malaysia)",
+    "LCID": 1086
+  },
+  {
+    "Name": "mt",
+    "TwoLetterISOLanguageName": "mt",
+    "DisplayName": "Maltese",
+    "LCID": 58
+  },
+  {
+    "Name": "mt-MT",
+    "TwoLetterISOLanguageName": "mt",
+    "DisplayName": "Maltese (Malta)",
+    "LCID": 1082
+  },
+  {
+    "Name": "my",
+    "TwoLetterISOLanguageName": "my",
+    "DisplayName": "Burmese",
+    "LCID": 85
+  },
+  {
+    "Name": "my-MM",
+    "TwoLetterISOLanguageName": "my",
+    "DisplayName": "Burmese (Myanmar)",
+    "LCID": 1109
+  },
+  {
+    "Name": "nb",
+    "TwoLetterISOLanguageName": "nb",
+    "DisplayName": "Norwegian (BokmÃ¥l)",
+    "LCID": 31764
+  },
+  {
+    "Name": "nb-NO",
+    "TwoLetterISOLanguageName": "nb",
+    "DisplayName": "Norwegian, BokmÃ¥l (Norway)",
+    "LCID": 1044
+  },
+  {
+    "Name": "ne",
+    "TwoLetterISOLanguageName": "ne",
+    "DisplayName": "Nepali",
+    "LCID": 97
+  },
+  {
+    "Name": "ne-IN",
+    "TwoLetterISOLanguageName": "ne",
+    "DisplayName": "Nepali (India)",
+    "LCID": 2145
+  },
+  {
+    "Name": "ne-NP",
+    "TwoLetterISOLanguageName": "ne",
+    "DisplayName": "Nepali (Nepal)",
+    "LCID": 1121
+  },
+  {
+    "Name": "nl",
+    "TwoLetterISOLanguageName": "nl",
+    "DisplayName": "Dutch",
+    "LCID": 19
+  },
+  {
+    "Name": "nl-BE",
+    "TwoLetterISOLanguageName": "nl",
+    "DisplayName": "Dutch (Belgium)",
+    "LCID": 2067
+  },
+  {
+    "Name": "nl-NL",
+    "TwoLetterISOLanguageName": "nl",
+    "DisplayName": "Dutch (Netherlands)",
+    "LCID": 1043
+  },
+  {
+    "Name": "nn",
+    "TwoLetterISOLanguageName": "nn",
+    "DisplayName": "Norwegian (Nynorsk)",
+    "LCID": 30740
+  },
+  {
+    "Name": "nn-NO",
+    "TwoLetterISOLanguageName": "nn",
+    "DisplayName": "Norwegian, Nynorsk (Norway)",
+    "LCID": 2068
+  },
+  {
+    "Name": "no",
+    "TwoLetterISOLanguageName": "nb",
+    "DisplayName": "Norwegian",
+    "LCID": 20
+  },
+  {
+    "Name": "nqo",
+    "TwoLetterISOLanguageName": "nqo",
+    "DisplayName": "ß’ßžß",
+    "LCID": 4096
+  },
+  {
+    "Name": "nqo-GN",
+    "TwoLetterISOLanguageName": "nqo",
+    "DisplayName": "ß’ßžß (ß–ßŒß¬ß£ßß¬ ßžßŠß²ß“ßß²)",
+    "LCID": 4096
+  },
+  {
+    "Name": "nso",
+    "TwoLetterISOLanguageName": "nso",
+    "DisplayName": "Sesotho sa Leboa",
+    "LCID": 108
+  },
+  {
+    "Name": "nso-ZA",
+    "TwoLetterISOLanguageName": "nso",
+    "DisplayName": "Sesotho sa Leboa (South Africa)",
+    "LCID": 1132
+  },
+  {
+    "Name": "oc",
+    "TwoLetterISOLanguageName": "oc",
+    "DisplayName": "Occitan",
+    "LCID": 130
+  },
+  {
+    "Name": "oc-FR",
+    "TwoLetterISOLanguageName": "oc",
+    "DisplayName": "Occitan (France)",
+    "LCID": 1154
+  },
+  {
+    "Name": "om",
+    "TwoLetterISOLanguageName": "om",
+    "DisplayName": "Oromo",
+    "LCID": 114
+  },
+  {
+    "Name": "om-ET",
+    "TwoLetterISOLanguageName": "om",
+    "DisplayName": "Oromo (Ethiopia)",
+    "LCID": 1138
+  },
+  {
+    "Name": "or",
+    "TwoLetterISOLanguageName": "or",
+    "DisplayName": "Oriya",
+    "LCID": 72
+  },
+  {
+    "Name": "or-IN",
+    "TwoLetterISOLanguageName": "or",
+    "DisplayName": "Oriya (India)",
+    "LCID": 1096
+  },
+  {
+    "Name": "pa",
+    "TwoLetterISOLanguageName": "pa",
+    "DisplayName": "Punjabi",
+    "LCID": 70
+  },
+  {
+    "Name": "pa-Arab",
+    "TwoLetterISOLanguageName": "pa",
+    "DisplayName": "Punjabi",
+    "LCID": 31814
+  },
+  {
+    "Name": "pa-Arab-PK",
+    "TwoLetterISOLanguageName": "pa",
+    "DisplayName": "Punjabi (Islamic Republic of Pakistan)",
+    "LCID": 2118
+  },
+  {
+    "Name": "pa-IN",
+    "TwoLetterISOLanguageName": "pa",
+    "DisplayName": "Punjabi (India)",
+    "LCID": 1094
+  },
+  {
+    "Name": "pl",
+    "TwoLetterISOLanguageName": "pl",
+    "DisplayName": "Polish",
+    "LCID": 21
+  },
+  {
+    "Name": "pl-PL",
+    "TwoLetterISOLanguageName": "pl",
+    "DisplayName": "Polish (Poland)",
+    "LCID": 1045
+  },
+  {
+    "Name": "prs",
+    "TwoLetterISOLanguageName": "prs",
+    "DisplayName": "Dari",
+    "LCID": 140
+  },
+  {
+    "Name": "prs-AF",
+    "TwoLetterISOLanguageName": "prs",
+    "DisplayName": "Dari (Afghanistan)",
+    "LCID": 1164
+  },
+  {
+    "Name": "ps",
+    "TwoLetterISOLanguageName": "ps",
+    "DisplayName": "Pashto",
+    "LCID": 99
+  },
+  {
+    "Name": "ps-AF",
+    "TwoLetterISOLanguageName": "ps",
+    "DisplayName": "Pashto (Afghanistan)",
+    "LCID": 1123
+  },
+  {
+    "Name": "pt",
+    "TwoLetterISOLanguageName": "pt",
+    "DisplayName": "Portuguese",
+    "LCID": 22
+  },
+  {
+    "Name": "pt-AO",
+    "TwoLetterISOLanguageName": "pt",
+    "DisplayName": "portuguÃªs (Angola)",
+    "LCID": 4096
+  },
+  {
+    "Name": "pt-BR",
+    "TwoLetterISOLanguageName": "pt",
+    "DisplayName": "Portuguese (Brazil)",
+    "LCID": 1046
+  },
+  {
+    "Name": "pt-PT",
+    "TwoLetterISOLanguageName": "pt",
+    "DisplayName": "Portuguese (Portugal)",
+    "LCID": 2070
+  },
+  {
+    "Name": "qut",
+    "TwoLetterISOLanguageName": "qut",
+    "DisplayName": "K'iche",
+    "LCID": 134
+  },
+  {
+    "Name": "qut-GT",
+    "TwoLetterISOLanguageName": "qut",
+    "DisplayName": "K'iche (Guatemala)",
+    "LCID": 1158
+  },
+  {
+    "Name": "quz",
+    "TwoLetterISOLanguageName": "quz",
+    "DisplayName": "Quechua",
+    "LCID": 107
+  },
+  {
+    "Name": "quz-BO",
+    "TwoLetterISOLanguageName": "quz",
+    "DisplayName": "Quechua (Bolivia)",
+    "LCID": 1131
+  },
+  {
+    "Name": "quz-EC",
+    "TwoLetterISOLanguageName": "quz",
+    "DisplayName": "Quechua (Ecuador)",
+    "LCID": 2155
+  },
+  {
+    "Name": "quz-PE",
+    "TwoLetterISOLanguageName": "quz",
+    "DisplayName": "Quechua (Peru)",
+    "LCID": 3179
+  },
+  {
+    "Name": "rm",
+    "TwoLetterISOLanguageName": "rm",
+    "DisplayName": "Romansh",
+    "LCID": 23
+  },
+  {
+    "Name": "rm-CH",
+    "TwoLetterISOLanguageName": "rm",
+    "DisplayName": "Romansh (Switzerland)",
+    "LCID": 1047
+  },
+  {
+    "Name": "ro",
+    "TwoLetterISOLanguageName": "ro",
+    "DisplayName": "Romanian",
+    "LCID": 24
+  },
+  {
+    "Name": "ro-MD",
+    "TwoLetterISOLanguageName": "ro",
+    "DisplayName": "Romanian (Moldova)",
+    "LCID": 2072
+  },
+  {
+    "Name": "ro-RO",
+    "TwoLetterISOLanguageName": "ro",
+    "DisplayName": "Romanian (Romania)",
+    "LCID": 1048
+  },
+  {
+    "Name": "ru",
+    "TwoLetterISOLanguageName": "ru",
+    "DisplayName": "Russian",
+    "LCID": 25
+  },
+  {
+    "Name": "ru-RU",
+    "TwoLetterISOLanguageName": "ru",
+    "DisplayName": "Russian (Russia)",
+    "LCID": 1049
+  },
+  {
+    "Name": "rw",
+    "TwoLetterISOLanguageName": "rw",
+    "DisplayName": "Kinyarwanda",
+    "LCID": 135
+  },
+  {
+    "Name": "rw-RW",
+    "TwoLetterISOLanguageName": "rw",
+    "DisplayName": "Kinyarwanda (Rwanda)",
+    "LCID": 1159
+  },
+  {
+    "Name": "sa",
+    "TwoLetterISOLanguageName": "sa",
+    "DisplayName": "Sanskrit",
+    "LCID": 79
+  },
+  {
+    "Name": "sa-IN",
+    "TwoLetterISOLanguageName": "sa",
+    "DisplayName": "Sanskrit (India)",
+    "LCID": 1103
+  },
+  {
+    "Name": "sah",
+    "TwoLetterISOLanguageName": "sah",
+    "DisplayName": "Sakha",
+    "LCID": 133
+  },
+  {
+    "Name": "sah-RU",
+    "TwoLetterISOLanguageName": "sah",
+    "DisplayName": "Sakha (Russia)",
+    "LCID": 1157
+  },
+  {
+    "Name": "sd",
+    "TwoLetterISOLanguageName": "sd",
+    "DisplayName": "Sindhi",
+    "LCID": 89
+  },
+  {
+    "Name": "sd-Arab",
+    "TwoLetterISOLanguageName": "sd",
+    "DisplayName": "Sindhi (Arabic)",
+    "LCID": 31833
+  },
+  {
+    "Name": "sd-Arab-PK",
+    "TwoLetterISOLanguageName": "sd",
+    "DisplayName": "Sindhi (Islamic Republic of Pakistan)",
+    "LCID": 2137
+  },
+  {
+    "Name": "se",
+    "TwoLetterISOLanguageName": "se",
+    "DisplayName": "Sami (Northern)",
+    "LCID": 59
+  },
+  {
+    "Name": "se-FI",
+    "TwoLetterISOLanguageName": "se",
+    "DisplayName": "Sami, Northern (Finland)",
+    "LCID": 3131
+  },
+  {
+    "Name": "se-NO",
+    "TwoLetterISOLanguageName": "se",
+    "DisplayName": "Sami, Northern (Norway)",
+    "LCID": 1083
+  },
+  {
+    "Name": "se-SE",
+    "TwoLetterISOLanguageName": "se",
+    "DisplayName": "Sami, Northern (Sweden)",
+    "LCID": 2107
+  },
+  {
+    "Name": "si",
+    "TwoLetterISOLanguageName": "si",
+    "DisplayName": "Sinhala",
+    "LCID": 91
+  },
+  {
+    "Name": "si-LK",
+    "TwoLetterISOLanguageName": "si",
+    "DisplayName": "Sinhala (Sri Lanka)",
+    "LCID": 1115
+  },
+  {
+    "Name": "sk",
+    "TwoLetterISOLanguageName": "sk",
+    "DisplayName": "Slovak",
+    "LCID": 27
+  },
+  {
+    "Name": "sk-SK",
+    "TwoLetterISOLanguageName": "sk",
+    "DisplayName": "Slovak (Slovakia)",
+    "LCID": 1051
+  },
+  {
+    "Name": "sl",
+    "TwoLetterISOLanguageName": "sl",
+    "DisplayName": "Slovenian",
+    "LCID": 36
+  },
+  {
+    "Name": "sl-SI",
+    "TwoLetterISOLanguageName": "sl",
+    "DisplayName": "Slovenian (Slovenia)",
+    "LCID": 1060
+  },
+  {
+    "Name": "sma",
+    "TwoLetterISOLanguageName": "sma",
+    "DisplayName": "Sami (Southern)",
+    "LCID": 30779
+  },
+  {
+    "Name": "sma-NO",
+    "TwoLetterISOLanguageName": "sma",
+    "DisplayName": "Sami, Southern (Norway)",
+    "LCID": 6203
+  },
+  {
+    "Name": "sma-SE",
+    "TwoLetterISOLanguageName": "sma",
+    "DisplayName": "Sami, Southern (Sweden)",
+    "LCID": 7227
+  },
+  {
+    "Name": "smj",
+    "TwoLetterISOLanguageName": "smj",
+    "DisplayName": "Sami (Lule)",
+    "LCID": 31803
+  },
+  {
+    "Name": "smj-NO",
+    "TwoLetterISOLanguageName": "smj",
+    "DisplayName": "Sami, Lule (Norway)",
+    "LCID": 4155
+  },
+  {
+    "Name": "smj-SE",
+    "TwoLetterISOLanguageName": "smj",
+    "DisplayName": "Sami, Lule (Sweden)",
+    "LCID": 5179
+  },
+  {
+    "Name": "smn",
+    "TwoLetterISOLanguageName": "smn",
+    "DisplayName": "Sami (Inari)",
+    "LCID": 28731
+  },
+  {
+    "Name": "smn-FI",
+    "TwoLetterISOLanguageName": "smn",
+    "DisplayName": "Sami, Inari (Finland)",
+    "LCID": 9275
+  },
+  {
+    "Name": "sms",
+    "TwoLetterISOLanguageName": "sms",
+    "DisplayName": "Sami (Skolt)",
+    "LCID": 29755
+  },
+  {
+    "Name": "sms-FI",
+    "TwoLetterISOLanguageName": "sms",
+    "DisplayName": "Sami, Skolt (Finland)",
+    "LCID": 8251
+  },
+  {
+    "Name": "sn",
+    "TwoLetterISOLanguageName": "sn",
+    "DisplayName": "chiShona",
+    "LCID": 4096
+  },
+  {
+    "Name": "sn-Latn",
+    "TwoLetterISOLanguageName": "sn",
+    "DisplayName": "chiShona (Latin)",
+    "LCID": 4096
+  },
+  {
+    "Name": "sn-Latn-ZW",
+    "TwoLetterISOLanguageName": "sn",
+    "DisplayName": "chiShona (Latin, Zimbabwe)",
+    "LCID": 4096
+  },
+  {
+    "Name": "so",
+    "TwoLetterISOLanguageName": "so",
+    "DisplayName": "Somali",
+    "LCID": 119
+  },
+  {
+    "Name": "so-SO",
+    "TwoLetterISOLanguageName": "so",
+    "DisplayName": "Somali (Somalia)",
+    "LCID": 1143
+  },
+  {
+    "Name": "sq",
+    "TwoLetterISOLanguageName": "sq",
+    "DisplayName": "Albanian",
+    "LCID": 28
+  },
+  {
+    "Name": "sq-AL",
+    "TwoLetterISOLanguageName": "sq",
+    "DisplayName": "Albanian (Albania)",
+    "LCID": 1052
+  },
+  {
+    "Name": "sr",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian",
+    "LCID": 31770
+  },
+  {
+    "Name": "sr-Cyrl",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Cyrillic)",
+    "LCID": 27674
+  },
+  {
+    "Name": "sr-Cyrl-BA",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Cyrillic, Bosnia and Herzegovina)",
+    "LCID": 7194
+  },
+  {
+    "Name": "sr-Cyrl-CS",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Cyrillic, Serbia and Montenegro (Former))",
+    "LCID": 3098
+  },
+  {
+    "Name": "sr-Cyrl-ME",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Cyrillic, Montenegro)",
+    "LCID": 12314
+  },
+  {
+    "Name": "sr-Cyrl-RS",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Cyrillic, Serbia)",
+    "LCID": 10266
+  },
+  {
+    "Name": "sr-Latn",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Latin)",
+    "LCID": 28698
+  },
+  {
+    "Name": "sr-Latn-BA",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Latin, Bosnia and Herzegovina)",
+    "LCID": 6170
+  },
+  {
+    "Name": "sr-Latn-CS",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Latin, Serbia and Montenegro (Former))",
+    "LCID": 2074
+  },
+  {
+    "Name": "sr-Latn-ME",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Latin, Montenegro)",
+    "LCID": 11290
+  },
+  {
+    "Name": "sr-Latn-RS",
+    "TwoLetterISOLanguageName": "sr",
+    "DisplayName": "Serbian (Latin, Serbia)",
+    "LCID": 9242
+  },
+  {
+    "Name": "st",
+    "TwoLetterISOLanguageName": "st",
+    "DisplayName": "Southern Sotho",
+    "LCID": 48
+  },
+  {
+    "Name": "st-ZA",
+    "TwoLetterISOLanguageName": "st",
+    "DisplayName": "Southern Sotho (South Africa)",
+    "LCID": 1072
+  },
+  {
+    "Name": "sv",
+    "TwoLetterISOLanguageName": "sv",
+    "DisplayName": "Swedish",
+    "LCID": 29
+  },
+  {
+    "Name": "sv-FI",
+    "TwoLetterISOLanguageName": "sv",
+    "DisplayName": "Swedish (Finland)",
+    "LCID": 2077
+  },
+  {
+    "Name": "sv-SE",
+    "TwoLetterISOLanguageName": "sv",
+    "DisplayName": "Swedish (Sweden)",
+    "LCID": 1053
+  },
+  {
+    "Name": "sw",
+    "TwoLetterISOLanguageName": "sw",
+    "DisplayName": "Kiswahili",
+    "LCID": 65
+  },
+  {
+    "Name": "sw-KE",
+    "TwoLetterISOLanguageName": "sw",
+    "DisplayName": "Kiswahili (Kenya)",
+    "LCID": 1089
+  },
+  {
+    "Name": "syr",
+    "TwoLetterISOLanguageName": "syr",
+    "DisplayName": "Syriac",
+    "LCID": 90
+  },
+  {
+    "Name": "syr-SY",
+    "TwoLetterISOLanguageName": "syr",
+    "DisplayName": "Syriac (Syria)",
+    "LCID": 1114
+  },
+  {
+    "Name": "ta",
+    "TwoLetterISOLanguageName": "ta",
+    "DisplayName": "Tamil",
+    "LCID": 73
+  },
+  {
+    "Name": "ta-IN",
+    "TwoLetterISOLanguageName": "ta",
+    "DisplayName": "Tamil (India)",
+    "LCID": 1097
+  },
+  {
+    "Name": "ta-LK",
+    "TwoLetterISOLanguageName": "ta",
+    "DisplayName": "Tamil (Sri Lanka)",
+    "LCID": 2121
+  },
+  {
+    "Name": "te",
+    "TwoLetterISOLanguageName": "te",
+    "DisplayName": "Telugu",
+    "LCID": 74
+  },
+  {
+    "Name": "te-IN",
+    "TwoLetterISOLanguageName": "te",
+    "DisplayName": "Telugu (India)",
+    "LCID": 1098
+  },
+  {
+    "Name": "tg",
+    "TwoLetterISOLanguageName": "tg",
+    "DisplayName": "Tajik",
+    "LCID": 40
+  },
+  {
+    "Name": "tg-Cyrl",
+    "TwoLetterISOLanguageName": "tg",
+    "DisplayName": "Tajik (Cyrillic)",
+    "LCID": 31784
+  },
+  {
+    "Name": "tg-Cyrl-TJ",
+    "TwoLetterISOLanguageName": "tg",
+    "DisplayName": "Tajik (Cyrillic, Tajikistan)",
+    "LCID": 1064
+  },
+  {
+    "Name": "th",
+    "TwoLetterISOLanguageName": "th",
+    "DisplayName": "Thai",
+    "LCID": 30
+  },
+  {
+    "Name": "th-TH",
+    "TwoLetterISOLanguageName": "th",
+    "DisplayName": "Thai (Thailand)",
+    "LCID": 1054
+  },
+  {
+    "Name": "ti",
+    "TwoLetterISOLanguageName": "ti",
+    "DisplayName": "Tigrinya",
+    "LCID": 115
+  },
+  {
+    "Name": "ti-ER",
+    "TwoLetterISOLanguageName": "ti",
+    "DisplayName": "Tigrinya (Eritrea)",
+    "LCID": 2163
+  },
+  {
+    "Name": "ti-ET",
+    "TwoLetterISOLanguageName": "ti",
+    "DisplayName": "Tigrinya (Ethiopia)",
+    "LCID": 1139
+  },
+  {
+    "Name": "tk",
+    "TwoLetterISOLanguageName": "tk",
+    "DisplayName": "Turkmen",
+    "LCID": 66
+  },
+  {
+    "Name": "tk-TM",
+    "TwoLetterISOLanguageName": "tk",
+    "DisplayName": "Turkmen (Turkmenistan)",
+    "LCID": 1090
+  },
+  {
+    "Name": "tn",
+    "TwoLetterISOLanguageName": "tn",
+    "DisplayName": "Setswana",
+    "LCID": 50
+  },
+  {
+    "Name": "tn-BW",
+    "TwoLetterISOLanguageName": "tn",
+    "DisplayName": "Setswana (Botswana)",
+    "LCID": 2098
+  },
+  {
+    "Name": "tn-ZA",
+    "TwoLetterISOLanguageName": "tn",
+    "DisplayName": "Setswana (South Africa)",
+    "LCID": 1074
+  },
+  {
+    "Name": "tr",
+    "TwoLetterISOLanguageName": "tr",
+    "DisplayName": "Turkish",
+    "LCID": 31
+  },
+  {
+    "Name": "tr-TR",
+    "TwoLetterISOLanguageName": "tr",
+    "DisplayName": "Turkish (Turkey)",
+    "LCID": 1055
+  },
+  {
+    "Name": "ts",
+    "TwoLetterISOLanguageName": "ts",
+    "DisplayName": "Tsonga",
+    "LCID": 49
+  },
+  {
+    "Name": "ts-ZA",
+    "TwoLetterISOLanguageName": "ts",
+    "DisplayName": "Tsonga (South Africa)",
+    "LCID": 1073
+  },
+  {
+    "Name": "tt",
+    "TwoLetterISOLanguageName": "tt",
+    "DisplayName": "Tatar",
+    "LCID": 68
+  },
+  {
+    "Name": "tt-RU",
+    "TwoLetterISOLanguageName": "tt",
+    "DisplayName": "Tatar (Russia)",
+    "LCID": 1092
+  },
+  {
+    "Name": "tzm",
+    "TwoLetterISOLanguageName": "tzm",
+    "DisplayName": "Tamazight",
+    "LCID": 95
+  },
+  {
+    "Name": "tzm-Latn",
+    "TwoLetterISOLanguageName": "tzm",
+    "DisplayName": "Tamazight (Latin)",
+    "LCID": 31839
+  },
+  {
+    "Name": "tzm-Latn-DZ",
+    "TwoLetterISOLanguageName": "tzm",
+    "DisplayName": "Tamazight (Latin, Algeria)",
+    "LCID": 2143
+  },
+  {
+    "Name": "tzm-Tfng",
+    "TwoLetterISOLanguageName": "tzm",
+    "DisplayName": "Tamazight (Tifinagh)",
+    "LCID": 30815
+  },
+  {
+    "Name": "tzm-Tfng-MA",
+    "TwoLetterISOLanguageName": "tzm",
+    "DisplayName": "Central Atlas Tamazight (Tifinagh, Morocco)",
+    "LCID": 4191
+  },
+  {
+    "Name": "ug",
+    "TwoLetterISOLanguageName": "ug",
+    "DisplayName": "Uyghur",
+    "LCID": 128
+  },
+  {
+    "Name": "ug-CN",
+    "TwoLetterISOLanguageName": "ug",
+    "DisplayName": "Uyghur (PRC)",
+    "LCID": 1152
+  },
+  {
+    "Name": "uk",
+    "TwoLetterISOLanguageName": "uk",
+    "DisplayName": "Ukrainian",
+    "LCID": 34
+  },
+  {
+    "Name": "uk-UA",
+    "TwoLetterISOLanguageName": "uk",
+    "DisplayName": "Ukrainian (Ukraine)",
+    "LCID": 1058
+  },
+  {
+    "Name": "ur",
+    "TwoLetterISOLanguageName": "ur",
+    "DisplayName": "Urdu",
+    "LCID": 32
+  },
+  {
+    "Name": "ur-IN",
+    "TwoLetterISOLanguageName": "ur",
+    "DisplayName": "Urdu (India)",
+    "LCID": 2080
+  },
+  {
+    "Name": "ur-PK",
+    "TwoLetterISOLanguageName": "ur",
+    "DisplayName": "Urdu (Islamic Republic of Pakistan)",
+    "LCID": 1056
+  },
+  {
+    "Name": "uz",
+    "TwoLetterISOLanguageName": "uz",
+    "DisplayName": "Uzbek",
+    "LCID": 67
+  },
+  {
+    "Name": "uz-Cyrl",
+    "TwoLetterISOLanguageName": "uz",
+    "DisplayName": "Uzbek (Cyrillic)",
+    "LCID": 30787
+  },
+  {
+    "Name": "uz-Cyrl-UZ",
+    "TwoLetterISOLanguageName": "uz",
+    "DisplayName": "Uzbek (Cyrillic, Uzbekistan)",
+    "LCID": 2115
+  },
+  {
+    "Name": "uz-Latn",
+    "TwoLetterISOLanguageName": "uz",
+    "DisplayName": "Uzbek (Latin)",
+    "LCID": 31811
+  },
+  {
+    "Name": "uz-Latn-UZ",
+    "TwoLetterISOLanguageName": "uz",
+    "DisplayName": "Uzbek (Latin, Uzbekistan)",
+    "LCID": 1091
+  },
+  {
+    "Name": "vi",
+    "TwoLetterISOLanguageName": "vi",
+    "DisplayName": "Vietnamese",
+    "LCID": 42
+  },
+  {
+    "Name": "vi-VN",
+    "TwoLetterISOLanguageName": "vi",
+    "DisplayName": "Vietnamese (Vietnam)",
+    "LCID": 1066
+  },
+  {
+    "Name": "wo",
+    "TwoLetterISOLanguageName": "wo",
+    "DisplayName": "Wolof",
+    "LCID": 136
+  },
+  {
+    "Name": "wo-SN",
+    "TwoLetterISOLanguageName": "wo",
+    "DisplayName": "Wolof (Senegal)",
+    "LCID": 1160
+  },
+  {
+    "Name": "xh",
+    "TwoLetterISOLanguageName": "xh",
+    "DisplayName": "isiXhosa",
+    "LCID": 52
+  },
+  {
+    "Name": "xh-ZA",
+    "TwoLetterISOLanguageName": "xh",
+    "DisplayName": "isiXhosa (South Africa)",
+    "LCID": 1076
+  },
+  {
+    "Name": "yo",
+    "TwoLetterISOLanguageName": "yo",
+    "DisplayName": "Yoruba",
+    "LCID": 106
+  },
+  {
+    "Name": "yo-NG",
+    "TwoLetterISOLanguageName": "yo",
+    "DisplayName": "Yoruba (Nigeria)",
+    "LCID": 1130
+  },
+  {
+    "Name": "zgh",
+    "TwoLetterISOLanguageName": "zgh",
+    "DisplayName": "Standard Morrocan Tamazight",
+    "LCID": 4096
+  },
+  {
+    "Name": "zgh-Tfng",
+    "TwoLetterISOLanguageName": "zgh",
+    "DisplayName": "âµœâ´°âµŽâ´°âµ£âµ‰âµ–âµœ",
+    "LCID": 4096
+  },
+  {
+    "Name": "zgh-Tfng-MA",
+    "TwoLetterISOLanguageName": "zgh",
+    "DisplayName": "âµœâ´°âµŽâ´°âµ£âµ‰âµ–âµœ (âµâµŽâµ–âµ”âµ‰â´±)",
+    "LCID": 4096
+  },
+  {
+    "Name": "zh",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese",
+    "LCID": 30724
+  },
+  {
+    "Name": "zh-CN",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Simplified, PRC)",
+    "LCID": 2052
+  },
+  {
+    "Name": "zh-Hans",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Simplified)",
+    "LCID": 4
+  },
+  {
+    "Name": "zh-Hant",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Traditional)",
+    "LCID": 31748
+  },
+  {
+    "Name": "zh-HK",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Traditional, Hong Kong S.A.R.)",
+    "LCID": 3076
+  },
+  {
+    "Name": "zh-MO",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Traditional, Macao S.A.R.)",
+    "LCID": 5124
+  },
+  {
+    "Name": "zh-SG",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Simplified, Singapore)",
+    "LCID": 4100
+  },
+  {
+    "Name": "zh-TW",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Traditional, Taiwan)",
+    "LCID": 1028
+  },
+  {
+    "Name": "zu",
+    "TwoLetterISOLanguageName": "zu",
+    "DisplayName": "isiZulu",
+    "LCID": 53
+  },
+  {
+    "Name": "zu-ZA",
+    "TwoLetterISOLanguageName": "zu",
+    "DisplayName": "isiZulu (South Africa)",
+    "LCID": 1077
+  },
+  {
+    "Name": "zh-CHS",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Simplified) Legacy",
+    "LCID": 4
+  },
+  {
+    "Name": "zh-CHT",
+    "TwoLetterISOLanguageName": "zh",
+    "DisplayName": "Chinese (Traditional) Legacy",
+    "LCID": 31748
+  }
+]
